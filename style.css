@@ -1,5 +1,13 @@
 body {
     background-image: url("https://github.com/isabelparra/Basic-Portfolio/blob/master/assets/images/subtle_background.png?raw=true");
-    margin: 20 0 0 20;
+
 }
 
+.navbar, h1 {
+    padding: 0;
+}
+
+.navbar-brand {
+    padding-top: 0;
+    padding-bottom: 0;
+}
